@@ -2,7 +2,7 @@
 
 ## 💻 **Data Scientist** | 🚙 **Automotive Enthusiast**
 
----
+[Link to my Github Portfolio!](https://arthursetiawan.github.io/)
 
 ## 🧰 **Tech Stack**
 
