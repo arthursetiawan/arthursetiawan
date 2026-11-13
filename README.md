@@ -1,50 +1,43 @@
-# 👋 Hi, I’m Arthur Setiawan
+# Arthur Setiawan
 
-## 💻 **Data Scientist** | 🚙 **Automotive Enthusiast**
+**Data Scientist** · automotive & industrial ML · Seattle / LA / Remote · open to **H-1B transfer**
 
-[Link to my Github Portfolio!](https://arthursetiawan.github.io/)
+[Portfolio](https://arthursetiawan.github.io/) · [LinkedIn](https://www.linkedin.com/in/arthursetiawan/) · [Email](mailto:rthrsetiawan@gmail.com)
 
-## 🧰 **Tech Stack**
+I build and maintain production ML systems and open-source automotive/marketplace products — problem framing through deployment, monitoring, and iteration.
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+## Currently
 
-**Data Science & ML:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+**Data Scientist at PACCAR Parts** — production ML for **pricing**, **forecasting**, and **dealer analytics** (modeling → deploy → maintain). Personal builds below mirror that domain on public data and synthetic demos ([full work page](https://arthursetiawan.github.io/work.html#personal)).
 
-**Data Engineering & Analytics:**  
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+## Selected projects
 
-**Tools & Platforms:**  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+| Project | GitHub | Live demo |
+| --- | --- | --- |
+| **Tawarkan** — marketplace bargaining & bidding | [repo](https://github.com/arthursetiawan/tawarkan) | [demo](https://arthursetiawan.github.io/tawarkan/) |
+| **MotorMarket** — enthusiast marketplace & auctions | [repo](https://github.com/arthursetiawan/motormarket) | [demo](https://arthursetiawan.github.io/motormarket/) |
+| **DriveQuest** — multi-attribute vehicle advisor | [repo](https://github.com/arthursetiawan/car_recommender) | [demo](https://arthursetiawan.github.io/car_recommender/drivequest/) |
+| **Automotive Dynamic Pricing Engine** — MLOps pricing lab | [repo](https://github.com/arthursetiawan/automotive-dynamic-pricing-engine) | [demo](https://arthursetiawan.github.io/demos/automotive-pricing/) |
+| **GenAI Unstructured Quote Extractor** — document → structured data | [repo](https://github.com/arthursetiawan/genai-unstructured-quote-extractor) | [demo](https://arthursetiawan.github.io/demos/genai-quote/) |
+| **Dealer-Counter AI** — negotiation guardrails & fee audit | [repo](https://github.com/arthursetiawan/vehicle-negotiator-engine) | [demo (UX mock)](https://arthursetiawan.github.io/demos/yournextcar/) |
 
----
+### More
 
-## 🚀 **What I’m Working On**
+- **[DATA_5100_Project](https://github.com/arthursetiawan/DATA_5100_Project)** — Fremont Bridge cycling ridership time-series (Seattle University)
 
-- Deepening expertise in applied data science & analytics  
-- Building projects exploring AI applications in the automotive space  
-- Continuing to explore my niche interest and expertise in the automotive space
+## Focus
+
+- Full **data science lifecycle** — framing, validation, deployment, and post-launch ownership  
+- **Production delivery** — APIs, Docker, CI/CD, and integrations (e.g. Salesforce, cloud pipelines)  
+- **Automotive & industrial** — pricing, recommendation, and operator-facing analytics
+
+## Stack
+
+`Python` · `SQL` · `scikit-learn` · `LangChain` · `FastAPI` · `Streamlit` · `Docker` · `CI/CD` · `dbt` · `Snowflake` · `Spark` · `Azure` · `AWS` · `Salesforce` · `Power BI`
+
+MS Data Science, Seattle University · BA Mathematics, University of Washington
 
 ---
 
-## 📫 **Let’s Connect**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthursetiawan/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rthrsetiawan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arthursetiawan.github.io-000?style=flat&logo=github)](https://arthursetiawan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthursetiawan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthursetiawan/)
