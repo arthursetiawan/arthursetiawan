@@ -1,6 +1,6 @@
 # Arthur Setiawan
 
-Production ML for mobility & marketplaces — full lifecycle from problem framing to deploy and monitor. Targeting Data Science, MLE, MLOps, Data Eng.
+Production ML for mobility & marketplaces — pricing, recommendations, deploy & monitor. Data Science · MLE · MLOps · Data Engineering.
 
 **Roles:** Data Scientist · ML Engineer · MLOps · Data Engineer &nbsp;·&nbsp; **Where:** Seattle / LA / Remote · H-1B transfer
 
